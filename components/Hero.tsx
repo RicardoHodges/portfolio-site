@@ -6,7 +6,7 @@ export default function Hero() {
     <section className="py-20">
       <div className="flex flex-col gap-6 items-start">
         <motion.h1 initial={{ y: 10, opacity: 0 }} animate={{ y: 0, opacity: 1 }} className="text-4xl sm:text-5xl font-extrabold">
-          João Silva
+          Abyssifex
         </motion.h1>
         <motion.h2 initial={{ y: 8, opacity: 0 }} animate={{ y: 0, opacity: 1 }} className="text-xl text-gray-300">
           Full-Stack Developer & Security-Oriented Engineer — construindo produtos confiáveis que escalam.
